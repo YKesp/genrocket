@@ -1,0 +1,8 @@
+/*
+Theme Name: Genrocket
+Template: twentyseventeen
+*/
+
+.wpforms-error-container{position:absolute;background:#fff;padding:2px 15px;top:calc(100% + 56px) !important;font-size:16px;line-height:22px;}
+.wpforms-error.mailcheck-error{display: none;}
+@media screen and (max-width:767px){.wpforms-error-container{top: calc(100% + 10px) !important;}}

@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?s84amd');
+  src:  url('../fonts/icomoon.eot?s84amd#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?s84amd') format('truetype'),
+        url('../fonts/icomoon.woff?s84amd') format('woff'),
+        url('../fonts/icomoon.svg?s84amd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-"],[class*=" icon-"]{font-family:'icomoon'!important;speak:never;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.icon-platform-management:before{content:"\e931";}
+.icon-AI-ML-Traning-data:before{content:"\e928";}
+.icon-data-generation:before{content:"\e929";}
+.icon-data-masking:before{content:"\e92a";}
+.icon-data-orchestration:before{content:"\e92b";}
+.icon-data-profiling:before{content:"\e92c";}
+.icon-data-subsetting:before{content:"\e92d";}
+.icon-genrocket-accelerator:before{content:"\e92e";}
+.icon-pipeline-integration:before{content:"\e92f";}
+.icon-TDM-self-service:before{content:"\e930";}
+.icon-advertising:before{content:"\e900";}
+.icon-arrow-right:before{content:"\e901";}
+.icon-banking:before{content:"\e902";}
+.icon-company:before{content:"\e903";}
+.icon-cost:before{content:"\e904";}
+.icon-email:before{content:"\e905";}
+.icon-facebook:before{content:"\e906";}
+.icon-financial-service:before{content:"\e907";}
+.icon-healthcare:before{content:"\e908";}
+.icon-heighspeed:before{content:"\e909";}
+.icon-information-tech:before{content:"\e90a";}
+.icon-insurance:before{content:"\e90b";}
+.icon-job:before{content:"\e90c";}
+.icon-linkedinn:before{content:"\e90d";}
+.icon-lowcost:before{content:"\e90e";}
+.icon-mail:before{content:"\e90f";}
+.icon-mobile:before{content:"\e910";}
+.icon-pin:before{content:"\e911";}
+.icon-play:before{content:"\e912";}
+.icon-quality:before{content:"\e913";}
+.icon-retail:before{content:"\e914";}
+.icon-search:before{content:"\e915";}
+.icon-security:before{content:"\e916";}
+.icon-simplicity:before{content:"\e917";}
+.icon-software:before{content:"\e918";}
+.icon-speed:before{content:"\e919";}
+.icon-telecom:before{content:"\e91a";}
+.icon-telephone:before{content:"\e91b";}
+.icon-tested:before{content:"\e91c";}
+.icon-transpotation:before{content:"\e91d";}
+.icon-twitter:before{content:"\e91e";}
+.icon-user:before{content:"\e91f";}
+.icon-versality:before{content:"\e920";}
+.icon-youtube:before{content:"\e921";}
+.icon-data-privacy:before{content:"\e922";}
+.icon-lowcost2:before{content:"\e923";}
+.icon-rapid:before{content:"\e924";}
+.icon-simplified:before{content:"\e925";}
+.icon-email2:before{content:"\e926";}
+.icon-message:before{content:"\e927";}
